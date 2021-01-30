@@ -1,0 +1,7 @@
+- Curso: K3521
+- Nombre del grupo: 13 (TESTIGOS_DE_HENRY)
+- Integrantes:
+-- Arrudi, Julián. Legajo: 1679909
+-- Bestard Pino, Rodrigo. Legajo: 1679983
+-- Naccachian, Nicolas Armen. Legajo: 1672952
+- Email del integrante responsable del grupo: nanaccachian@gmail.com

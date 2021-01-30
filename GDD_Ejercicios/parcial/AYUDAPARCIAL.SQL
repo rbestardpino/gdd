@@ -1,0 +1,19 @@
+PRE ORDEN, PRO ORDEN, ORDEN INTERNO
+
+
+
+TIPS PARA PARCIAL DE GESTION MARTES
+
+ITEM CON FACTURA : item_numero+item_tipo+item_sucursal = fact_numero+fact_tipo+fact_sucursal
+
+@NUMERO char(8),@SUCURSAL char(4),@TIPO char(1)
+
+ACORDATE DE CERRAR EL CURSOR Y DEALLOCATE
+
+ACORDATE DE PONER ESTO CUANDO TERMINA EL WHILE
+			FETCH NEXT FROM cursorDepositos
+				INTO @DEPOSITO, @ZONA
+
+RAISERROR ('no',1,1)
+
+
